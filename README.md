@@ -6,23 +6,33 @@ provides interactive visualizations to help stakeholders make data-driven decisi
 #🎯 Objectives
 
 ~Analyze customer demographics (age, gender, region)
+
 ~Evaluate premium collection trends
+
 ~Identify high-claim policy categories
+
 ~Study claim approval & rejection patterns
+
 ~Detect risk factors influencing claims
 
 #📊 Tools & Technologies
 
 ~Excel / Power BI / Tableau (Data Visualization)
+
 ~MySQL (Data Processing & Queries)
+
 ~Data Cleaning & Transformation
+
 ~KPI & Dashboard Design
 
 #📈 Key Insights
 
 ~High claim frequency observed in specific age groups
+
 ~Certain policy types show higher risk ratios
+
 ~Premium revenue trend varies across regions
+
 ~Claim approval rate impacts profitability
 
 #🎯 Skills Demonstrated
