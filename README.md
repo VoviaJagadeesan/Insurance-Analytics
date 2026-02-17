@@ -1,10 +1,10 @@
 
-#📌 Project Overview
+# Project Overview
 
 This project focuses on analyzing insurance data to identify key business insights such as customer demographics, premium trends, claim patterns, and policy performance.The dashboard 
 provides interactive visualizations to help stakeholders make data-driven decisions and improve risk assessment strategies.
 
-#🎯 Objectives
+# Objectives
 
 ~Analyze customer demographics (age, gender, region)
 
@@ -16,7 +16,7 @@ provides interactive visualizations to help stakeholders make data-driven decisi
 
 ~Detect risk factors influencing claims
 
-#📊 Tools & Technologies
+# Tools & Technologies
 
 ~Excel / Power BI / Tableau (Data Visualization)
 
@@ -26,7 +26,7 @@ provides interactive visualizations to help stakeholders make data-driven decisi
 
 ~KPI & Dashboard Design
 
-#📈 Key Insights
+# Key Insights
 
 ~High claim frequency observed in specific age groups
 
@@ -36,7 +36,7 @@ provides interactive visualizations to help stakeholders make data-driven decisi
 
 ~Claim approval rate impacts profitability
 
-#🎯 Skills Demonstrated
+# Skills Demonstrated
 
 Data Analysis | Business Intelligence | SQL | Data Visualization | KPI Development | Risk Analysis | Dashboard Development | Analytical Thinking
 Claim approval rate impacts profitability
